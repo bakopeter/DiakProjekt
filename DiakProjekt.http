@@ -1,0 +1,6 @@
+@DiakProjekt_HostAddress = http://localhost:5226
+
+GET {{DiakProjekt_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
